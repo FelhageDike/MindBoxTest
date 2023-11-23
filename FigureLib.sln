@@ -1,30 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureLib", "FigureLib\FigureLib.csproj", "{366236E4-EC88-4045-B639-F870E7538DFF}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BL", "BL", "{D9162450-AECB-444D-AD08-989E1223A1F0}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{AE0F745E-6E99-4283-8285-3B63B9EDA16B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureLib.Tests", "FigureLib.Tests\FigureLib.Tests.csproj", "{8E86FDE0-989C-417D-842A-F8EBD4FCFBF9}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{366236E4-EC88-4045-B639-F870E7538DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{366236E4-EC88-4045-B639-F870E7538DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{366236E4-EC88-4045-B639-F870E7538DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{366236E4-EC88-4045-B639-F870E7538DFF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8E86FDE0-989C-417D-842A-F8EBD4FCFBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8E86FDE0-989C-417D-842A-F8EBD4FCFBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8E86FDE0-989C-417D-842A-F8EBD4FCFBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8E86FDE0-989C-417D-842A-F8EBD4FCFBF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{366236E4-EC88-4045-B639-F870E7538DFF} = {D9162450-AECB-444D-AD08-989E1223A1F0}
-		{8E86FDE0-989C-417D-842A-F8EBD4FCFBF9} = {AE0F745E-6E99-4283-8285-3B63B9EDA16B}
 	EndGlobalSection
 EndGlobal
