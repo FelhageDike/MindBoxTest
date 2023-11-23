@@ -135,3 +135,10 @@
 /FigureLib.Tests/obj/rider.project.restore.info
 /FigureLib.Tests/bin/Debug/net7.0/testcentric.engine.metadata.dll
 /FigureLib.Tests/bin/Debug/net7.0/testhost.dll
+
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/.idea/
